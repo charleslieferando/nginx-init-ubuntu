@@ -26,7 +26,7 @@ sudo wget ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-8.33.tar.gz
 sudo tar xfz pcre-8.33.tar.gz
 sudo rm pcre-8.33.tar.gz
 
-#download openssl 1.0.1e
+#download openssl 1.0.1g
 sudo wget http://www.openssl.org/source/openssl-1.0.1g.tar.gz
 sudo tar xfz openssl-1.0.1g.tar.gz
 sudo rm openssl-1.0.1g.tar.gz
